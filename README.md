@@ -202,7 +202,7 @@ The website features:
 ### 🌐 View Projects Online
 The easiest way to explore all projects is through our **live website**:
 - **🔗 Visit:** [100-days-100-web-project.vercel.app](https://100-days-100-web-project.vercel.app/)
-- **✨ Features:** Search projects, view demos, dark/light theme
+- **✨ Features:** Search projects, view demos, dark/light theme.
 
 ### 💻 Local Development
 
@@ -375,7 +375,7 @@ Thanks to all these amazing people who have contributed to this project:
 
 **💖 Made with love by the open source community**
 
-**🌟 Don't forget to star this repository if you found it helpful!**
+**🌟 Don't forget to star this repository  if you found it helpful!**
 
 [![Star History Chart](https://api.star-history.com/svg?repos=dhairyagothi/100_days_100_web_project&type=Date)](https://star-history.com/#dhairyagothi/100_days_100_web_project&Date)
 
